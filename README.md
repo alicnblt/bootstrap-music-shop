@@ -1,4 +1,4 @@
-## Bootstrap wiith Music Shop
+## Bootstrap with Music Shop
 
 [Patika Profil](https://app.patika.dev/alicnblt)
 ---
